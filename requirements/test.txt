@@ -1,0 +1,6 @@
+coverage==3.6
+mock==1.0.1
+redis==2.7.5
+South==0.7.6
+httplib2==0.7.5
+psycopg2==2.4.5
